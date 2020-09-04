@@ -1,7 +1,5 @@
 <p align="center">
     <img width="281" height="149" src="https://github.com/FineasGavre/ubb-academicinfo-docs/raw/master/images/readme_head.png">
-    <br>
-    <img src="https://forthebadge.com/images/badges/reading-6th-grade-level.svg">
 </p>
 
 
